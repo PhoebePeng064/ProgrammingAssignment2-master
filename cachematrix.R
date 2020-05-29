@@ -1,7 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Cache the inverse of matrix
+## assuming the matrix is always invertible
 
-## cache inverse of the matrix
+## create a special matrix object that can cache its inverse
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
 ## 3. set the value of the inverse
